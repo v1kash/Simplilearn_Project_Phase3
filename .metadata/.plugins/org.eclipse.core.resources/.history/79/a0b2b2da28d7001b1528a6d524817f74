@@ -1,0 +1,5 @@
+package com.ecommerce.models;
+
+public class User {
+
+}
